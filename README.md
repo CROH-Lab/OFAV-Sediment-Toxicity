@@ -9,13 +9,13 @@ Structure:
    - README.md
 3. Data
    - Biological
-     - FDEP_Chlorophyll_analysis.csv
-     - FDEP_OFAV_Y2_CoralHealthSpecsDatasheet.csv
-     - FDEP_Y2_AFDW.csv
-     - FDEP_Y2_SkeletonGrowth.csv
-     - FDEP_Y2_SymbiontDensity.csv
-     - FDEP_Y2_WaterQuality.csv
-     - FDEP_totalprotein_analysis.csv
+     - FDEP_Chlorophyll_analysis.csv: Spreadsheet of chlorophyll concentration values measured via a spectrophotometer. Concentrations are reported in ug/uL.
+     - FDEP_OFAV_Y2_CoralHealthSpecsDatasheet.csv: Spreadsheet of Fv/Fm, buoyant weight (g), wet weight (g), volume displacement (mL), and desnity (g/mL).
+     - FDEP_Y2_AFDW.csv: Spreadsheet of values used to calculate ash-free dry weight (g/mL).
+     - FDEP_Y2_SkeletonGrowth.csv: Spreadsheet of dry mass (g), density (g/mL), and surface area (cm^3).
+     - FDEP_Y2_SymbiontDensity.csv: Spreadsheet of symbiont density measured via a Guava Flow Cytometer (cells/uL).
+     - FDEP_Y2_WaterQuality.csv: Spreadsheet of water quality parameters including Chamber temperature (C), Sump temperature (C), Salinity (ppt), percent oxygen (%), dissolved oxygen concentration (mg/mL), and turbidity (NTU). 
+     - FDEP_totalprotein_analysis.csv: Spreadsheet of protein concentrations measured via a spectrophotometer reported in ug/uL. 
      - README.md
    - Calcification
      - FDEP_Y2_Total Alkalinity (Calcification) (1).csv
