@@ -4,7 +4,7 @@ This project, a collaboration between Texas A&M University-Corpus Christi and th
 
 This repository will be a living data hub for all analyses and results associated with this project.
 
-Structure:
+### Structure:
 1. Data
    - Biological
      - FDEP_Chlorophyll_analysis.csv: Spreadsheet of chlorophyll concentration values measured via a spectrophotometer. Concentrations are reported in ug/uL.
