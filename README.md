@@ -5,9 +5,7 @@ This project, a collaboration between Texas A&M University-Corpus Christi and th
 This repository will be a living data hub for all analyses and results associated with this project.
 
 Structure:
-1. DEP Report/Materials
-   - README.md
-3. Data
+1. Data
    - Biological
      - FDEP_Chlorophyll_analysis.csv: Spreadsheet of chlorophyll concentration values measured via a spectrophotometer. Concentrations are reported in ug/uL.
      - FDEP_OFAV_Y2_CoralHealthSpecsDatasheet.csv: Spreadsheet of Fv/Fm, buoyant weight (g), wet weight (g), volume displacement (mL), and desnity (g/mL).
@@ -41,7 +39,7 @@ Structure:
      - Heavy Metals
        - FDEP_Metals.csv  
      - FDEP_Y2_SedimentComposition.csv
-5. Scripts
+2. Scripts
    - FDEP_Y2_HeavyMetals.Rmd
    - Heavy metals results.pdf
-7. README.md 
+3. README.md 
