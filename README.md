@@ -5,7 +5,7 @@ This project, a collaboration between Texas A&M University-Corpus Christi and th
 This repository will be a living data hub for all analyses and results associated with this project.
 
 ## Structure:
-1. Data
+### 1. Data
   - Biological
      - **FDEP_Chlorophyll_analysis.csv:** Spreadsheet of chlorophyll concentration values measured via a spectrophotometer. Concentrations are reported in ug/uL.
      - **FDEP_OFAV_Y2_CoralHealthSpecsDatasheet.csv:** Spreadsheet of Fv/Fm, buoyant weight (g), wet weight (g), volume displacement (mL), and desnity (g/mL).
@@ -37,7 +37,7 @@ This repository will be a living data hub for all analyses and results associate
      - Heavy Metals
        - **FDEP_Metals.csv:** Spreasheet of heavy metal isotope concentrations measured using ICP-OES. Concentration (ppt)
      - **FDEP_Y2_SedimentComposition.csv:** Spreadsheet of sediment composition data calculated from compositon burns with a muffle furnace. Crucible mass (g), Mass 1 (moisture, g), Mass 2 (organic, g), Mass 3 (carbonate, g), Mass 4 (terrigenous, g)
-2. Scripts
+### 2. Scripts
    - **FDEP_Y2_HeavyMetals.Rmd:** Mardkwon script of analyses associated with this project. 
    - **Heavy metals results.pdf:** PDF output of FDEP_Y2_HeavyMetals.Rmd. 
-3. **README.md:** Metadata associated with this project. 
+### 3. **README.md:** Metadata associated with this project. 
