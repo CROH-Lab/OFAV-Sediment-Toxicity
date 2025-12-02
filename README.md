@@ -16,28 +16,28 @@ This repository will be a living data hub for all analyses and results associate
      - FDEP_totalprotein_analysis.csv: Spreadsheet of protein concentrations measured via a spectrophotometer reported in ug/uL. 
      - README.md
    - Calcification
-     - FDEP_Y2_Total Alkalinity (Calcification) (1).csv
-     - FDEP_Y2_Total Alkalinity (Calcification)_ForAnalysis.csv
+     - FDEP_Y2_Total Alkalinity (Calcification) (1).csv: Spreadsheet of calcification data calculated using TA anomaly technique. Measurements include Mass (g), Temperature (ºC), Total alkalinity (TA; umol/kg), pH (NBS scale). Total alkalinity data was measured using single point inflection acid titration         with a Metrohm EcoTitrator. 
+     - FDEP_Y2_Total Alkalinity (Calcification)_ForAnalysis.csv: Spreadhseet of calculated values for calcification. Calculated values are average total alkalinity (average umol/kg) measured from the sumps, average total alkalinity (average umol/kg) measured from the chambers, Difference in total                  alkalinity (average umol/kg) between average total alkalinity (umol/kg) in sump compared to chamber. Total alkalinity data was measured using single point inflection acid titration with a Metrohm EcoTitrator. 
    - Coral Photos
-     - Various .jpg files
+     - Various .jpg files: Standardized photos taken using a Cannon PowerShot G7 with ambient lighting, metric ruler, coral ID tag, and color correction card.
    - Respirometry
-     - PreExperiment_PumpMass.csv
-     - Trial2_Chamber10_combined.csv
-     - Trial2_Chamber11_combined.csv
-     - Trial2_Chamber1_combined.csv
-     - Trial2_Chamber2_combined.csv
-     - Trial2_Chamber3_combined.csv
-     - Trial2_Chamber4_combined.csv
-     - Trial2_Chamber5_combined.csv
-     - Trial2_Chamber6_combined.csv
-     - Trial2_Chamber7_combined.csv
-     - Trial2_Chamber8_combined.csv
-     - Trial2_Chamber9_combined.csv
+     - PreExperiment_PumpMass.csv: Spreasheet of pre-experimental tubing and pump weights. Pump number, Mass 1 (g), Mass 2 (g), Mass 3 (g), calculated average mass (g) of all three replicated. 
+     - Trial2_Chamber10_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber11_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber1_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber2_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber3_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber4_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber5_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber6_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber7_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber8_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
+     - Trial2_Chamber9_combined.csv: Spreadhseet of raw respirometry data. Date (MM/DD/YYYY) & Time (24-hour), Intermittent phase, Intermittent mode, Preassure (hPa), Salinity (ppt), O2 (%), O2, moving average (%), O2 phase, O2 amplitude, Temperature (ºC), Temperature moving average (ºC), Temperature used        for compensation (ºC).
    - Sediment Characterization
      - Heavy Metals
-       - FDEP_Metals.csv  
-     - FDEP_Y2_SedimentComposition.csv
+       - FDEP_Metals.csv. Spreasheet of heavy metal isotope concentrations measured using ICP-OES. Concentration (ppt)
+     - FDEP_Y2_SedimentComposition.csv: Spreadsheet of sediment composition data calculated from compositon burns with a muffle furnace. Crucible mass (g), Mass 1 (moisture, g), Mass 2 (organic, g), Mass 3 (carbonate, g), Mass 4 (terrigenous, g)
 2. Scripts
-   - FDEP_Y2_HeavyMetals.Rmd
-   - Heavy metals results.pdf
-3. README.md 
+   - FDEP_Y2_HeavyMetals.Rmd: Mardkwon script of analyses associated with this project. 
+   - Heavy metals results.pdf: PDF output of FDEP_Y2_HeavyMetals.Rmd. 
+3. README.md: Metadata associated with this project. 
